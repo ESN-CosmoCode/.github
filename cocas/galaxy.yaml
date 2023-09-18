@@ -1,7 +1,7 @@
 ---
 # Galaxy conf
-## This is the galaxy for the french G33kTeam apps access.
-asso_id: "fr-lyon-esn"
+## This is the galaxy for the ESN Lyon apps access.
+asso_id: "FR-LYON-ESN"
 extra_admin:
   - "P1chu"
   - "M3wtw0"
