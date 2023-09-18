@@ -2,13 +2,6 @@
 # Galaxy conf
 ## This is the galaxy for the french G33kTeam apps access.
 asso_id: "fr-lyon-esn"
-
-local_roles:
-  - "Local.regularBoardMember"
-  - "Local.webmaster"
-  - "Local.activity"
-  - "Local.boardSupport"
-
 extra_admin:
   - "P1chu"
   - "M3wtw0"
